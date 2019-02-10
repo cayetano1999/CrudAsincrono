@@ -13266,11 +13266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josue Cayetano\\source\\repos\\CrudAsincrono\\CrudAsincrono\\CrudAsincrono.csproj",
+      "projectUniqueName": "C:\\Users\\Josue Cayetano\\Desktop\\ProyecctoCompartido\\CrudAsincrono\\CrudAsincrono\\CrudAsincrono.csproj",
       "projectName": "CrudAsincrono",
-      "projectPath": "C:\\Users\\Josue Cayetano\\source\\repos\\CrudAsincrono\\CrudAsincrono\\CrudAsincrono.csproj",
+      "projectPath": "C:\\Users\\Josue Cayetano\\Desktop\\ProyecctoCompartido\\CrudAsincrono\\CrudAsincrono\\CrudAsincrono.csproj",
       "packagesPath": "C:\\Users\\Josue Cayetano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josue Cayetano\\source\\repos\\CrudAsincrono\\CrudAsincrono\\obj\\",
+      "outputPath": "C:\\Users\\Josue Cayetano\\Desktop\\ProyecctoCompartido\\CrudAsincrono\\CrudAsincrono\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

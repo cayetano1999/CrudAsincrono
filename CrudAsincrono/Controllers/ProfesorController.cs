@@ -31,6 +31,22 @@ namespace CrudAsincrono.Controllers
         }
         
 
+        [HttpPost]
+        public IActionResult Create(Profesor profesor)
+        {
+            if (ModelState.IsValid)
+            {
+                _service.AddAsync(profesor);
+                return RedirectToAction(nameof(Index));
+            }
+            else
+            {
+                return View(profesor);
+            }
+
+        }
+
+
         public IActionResult Details (int? Id)
         {
             if (_service.Get(Id)!=null) {
