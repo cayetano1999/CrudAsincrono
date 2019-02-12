@@ -23,14 +23,23 @@ namespace CrudAsincrono.Services
 
         public bool Add(Profesor entity)
         {
-            throw new NotImplementedException();
+            if (entity != null)
+            {
+                _db.Profesores.Add(entity);
+                _db.SaveChanges();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public async Task<bool> AddAsync(Profesor profesor)
         {
             if (profesor!=null)
             {
-                _db.Add(profesor);
+                _db.Profesores.Add(profesor);
                await _db.SaveChangesAsync();
                 return true;
             }
@@ -91,7 +100,7 @@ namespace CrudAsincrono.Services
             var profesores = new List<Profesor>();
 
             profesores = _db.Profesores.ToList();
-
+            
             return profesores;
         }
 
