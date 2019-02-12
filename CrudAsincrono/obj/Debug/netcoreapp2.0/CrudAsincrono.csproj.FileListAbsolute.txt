@@ -9,3 +9,14 @@ C:\Users\Josue Cayetano\source\repos\CrudAsincrono\CrudAsincrono\obj\Debug\netco
 C:\Users\Josue Cayetano\source\repos\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.pdb
 C:\Users\Josue Cayetano\source\repos\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.dll
 C:\Users\Josue Cayetano\source\repos\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.pdb
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.deps.json
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.runtimeconfig.json
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.runtimeconfig.dev.json
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.dll
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\bin\Debug\netcoreapp2.0\CrudAsincrono.pdb
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.csprojAssemblyReference.cache
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.csproj.CoreCompileInputs.cache
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.AssemblyInfoInputs.cache
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.AssemblyInfo.cs
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.dll
+C:\Users\Josue Cayetano\Desktop\ProyecctoCompartido\CrudAsincrono\CrudAsincrono\obj\Debug\netcoreapp2.0\CrudAsincrono.pdb
