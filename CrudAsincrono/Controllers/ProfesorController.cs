@@ -36,7 +36,7 @@ namespace CrudAsincrono.Controllers
         {
             if (ModelState.IsValid)
             {
-                _service.AddAsync(profesor);
+                _service.Add(profesor);
                 return RedirectToAction(nameof(Index));
             }
             else
